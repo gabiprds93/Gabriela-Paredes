@@ -1,13 +1,15 @@
 {
   "main.css": "static/css/main.cafcca1b.css",
   "main.css.map": "static/css/main.cafcca1b.css.map",
-  "main.js": "static/js/main.453f887d.js",
-  "main.js.map": "static/js/main.453f887d.js.map",
+  "main.js": "static/js/main.904fcc0d.js",
+  "main.js.map": "static/js/main.904fcc0d.js.map",
   "static\\media\\GabrielaParedes-CV.pdf": "static/media/GabrielaParedes-CV.20080702.pdf",
   "static\\media\\ajedrez-compressor.jpg": "static/media/ajedrez-compressor.dffe259d.jpg",
   "static\\media\\ajedrez2-compressor.png": "static/media/ajedrez2-compressor.deab892d.png",
   "static\\media\\asientos-compressor.jpg": "static/media/asientos-compressor.07681699.jpg",
   "static\\media\\asientos2-compressor.png": "static/media/asientos2-compressor.baad4d8b.png",
+  "static\\media\\ciup2.png": "static/media/ciup2.cfc75644.png",
+  "static\\media\\cpj2.png": "static/media/cpj2.951d1b63.png",
   "static\\media\\imageHome1-compressor.jpg": "static/media/imageHome1-compressor.572b2b3d.jpg",
   "static\\media\\imageProfile-compressor.jpg": "static/media/imageProfile-compressor.fbb2c665.jpg",
   "static\\media\\koala-compressor.jpg": "static/media/koala-compressor.d08c398b.jpg",
@@ -17,7 +19,9 @@
   "static\\media\\logo1.png": "static/media/logo1.341bdab7.png",
   "static\\media\\panda-compressor.jpg": "static/media/panda-compressor.cbdaac79.jpg",
   "static\\media\\panda2-compressor.png": "static/media/panda2-compressor.c3dbdb6d.png",
+  "static\\media\\ppj2.png": "static/media/ppj2.68066364.png",
   "static\\media\\profile-compressor.jpg": "static/media/profile-compressor.fcd0a131.jpg",
+  "static\\media\\tls2.png": "static/media/tls2.5dea9035.png",
   "static\\media\\trivia-compressor.jpg": "static/media/trivia-compressor.aecdcda4.jpg",
   "static\\media\\trivia2-compressor.png": "static/media/trivia2-compressor.8edf1403.png"
 }
